@@ -1,2 +1,2 @@
-的t一种rt cmd
+start cmd
 %0|%0
