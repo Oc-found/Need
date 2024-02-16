@@ -1,12 +1,3 @@
-Our Team Files.
-
-Please Email to us at Team_Model@163.com 
-
-############################
-
-./The Model.txt :
-
-"
 
 What is the Model?
 
@@ -38,4 +29,3 @@ Now, we are only two people. so:
 
 (I nasty my father!)
 
-"
