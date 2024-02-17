@@ -36,6 +36,7 @@ Now, we are only two people. so:
 # 1. THOSE FILES IS ABOUT THE PROJECTS FILES MODEL/BwYEa TEAM.
 # 2. Some are open source, but some are not.
 # 3. You can see the homepage for open source projects.
+# 4. And our team's cmd is under development. Please wait.
 #
 #################################################
 
