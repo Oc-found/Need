@@ -29,3 +29,13 @@ Now, we are only two people. so:
 
 (I nasty my father!)
 
+
+################## MAIN ########################
+#              ABOUT THOSE FILES
+#
+# 1. THOSE FILES IS ABOUT THE PROJECTS FILES MODEL/BwYEa TEAM.
+# 2. Some are open source, but some are not.
+# 3. You can see the homepage for open source projects.
+#
+#################################################
+
