@@ -11,6 +11,6 @@ while 1:
     pass
   c = input("+ - * / : ")
   #########
-  d = run(a,b)
+  d = run(a,b,c)
   print(d.runner())
   
